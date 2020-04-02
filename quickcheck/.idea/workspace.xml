@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f119736-7f19-414e-a9b7-4853486c731d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZnMSr5FKBToncXaSWIrXNfvEWG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuickCheckBinomialHeap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckBinomialHeap" />
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickCheckBinomialHeap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-quickcheck" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="quickcheck [file:/Users/sshrestha/stash/code/coursera/functional-program-design-in-scala/quickcheck/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-quickcheck-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429246276000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1894857077" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/LearningConcurrentProgrammingInScalaSecondEdition_Code/Chapter02/Chapter02/learning-examples-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/acquisitionapi/ratelimiter" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/commons/ag-couchbase" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/content-processing-pipeline" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/content-push-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/reactive-downloader" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/ycs-calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/ycs-suppio" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/content-2" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/content-platform" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/dexsync" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/dfapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/non-property-content" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/oncall-dashboard" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/propertyapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/ypl" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-whitelabel/wl-client-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-whitelabel/wl-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/review-aggregations" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/skunk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../graphql-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ratelimiter4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../upperbound" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f119736-7f19-414e-a9b7-4853486c731d" name="Default Changelist" comment="" />
+      <created>1585470407631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585470407631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1923" y="160" key="#xdebugger.evaluate" timestamp="1585651037465">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1923" y="160" key="#xdebugger.evaluate/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585651037465" />
+    <state width="398" height="466" key="DebuggerActiveHint" timestamp="1585667912067">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="398" height="466" key="DebuggerActiveHint/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585667912067" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585796892995">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892995" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585796892993">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892993" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585796892992">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892992" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585796892994">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892994" />
+    <state width="1398" height="370" key="GridCell.Tab.1.bottom" timestamp="1585796892973">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="370" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892973" />
+    <state width="1398" height="370" key="GridCell.Tab.1.center" timestamp="1585796892972">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="370" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892972" />
+    <state width="1398" height="370" key="GridCell.Tab.1.left" timestamp="1585796892971">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="370" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892971" />
+    <state width="1398" height="370" key="GridCell.Tab.1.right" timestamp="1585796892972">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="370" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585796892972" />
+    <state x="1540" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585831345006">
+      <screen x="1440" y="23" width="1440" height="807" />
+    </state>
+    <state x="1540" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/1440.23.1440.807@1440.23.1440.807" timestamp="1585831345006" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/quickcheck/QuickCheckSuite.scala</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d03a7d3-4499-4511-8591-baa0c495aff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZkzCZevLx8dxycA4HkxPMVqUud" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="Application.FunctionalRandomGenerator">
+    <configuration name="FunctionalRandomGenerator" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.week1.FunctionalRandomGenerator" />
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.intNotZero$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="intNotZero$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.max$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020list$u0020is$u0020empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="max$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020list$u0020is$u0020empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.one$u0020plus$u0020one$u0020is$u0020three$u0020$u00280pts$u0029$qmark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="one$u0020plus$u0020one$u0020is$u0020three$u0020$u00280pts$u0029$qmark" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionalRandomGenerator" />
+        <item itemvalue="JUnit.ListsSuite.max$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020list$u0020is$u0020empty" />
+        <item itemvalue="JUnit.ListsSuite.intNotZero$u0020throws$u0020an$u0020exception$u0020if$u0020its$u0020argument$u0020is$u00200" />
+        <item itemvalue="JUnit.ListsSuite.details$u0020why$u0020one$u0020plus$u0020one$u0020is$u0020not$u0020three$u0020$u00280pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.one$u0020plus$u0020one$u0020is$u0020three$u0020$u00280pts$u0029$qmark" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="example [file:/Users/sshrestha/stash/code/coursera/functional-program-design-in-scala/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9441817446000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="324345361" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/LearningConcurrentProgrammingInScalaSecondEdition_Code/Chapter02/Chapter02/learning-examples-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/acquisitionapi/ratelimiter" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/commons/ag-couchbase" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/content-processing-pipeline" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/content-push-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/reactive-downloader" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/ycs-calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/connectivity/ycs-suppio" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/commons" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/content-2" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/content-platform" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/dexsync" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/dfapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/non-property-content" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/oncall-dashboard" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/propertyapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-platform/ypl" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-whitelabel/wl-client-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/it-whitelabel/wl-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/review-aggregations" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/skunk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../graphql-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ratelimiter4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../upperbound" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d03a7d3-4499-4511-8591-baa0c495aff9" name="Default Changelist" comment="" />
+      <created>1585397753588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585397753588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1898" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585492715308">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1898" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585492715308" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585581408419">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585581408419" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585581408418">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585581408418" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585581408417">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585581408417" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585581408418">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585581408418" />
+    <state x="1789" y="151" key="NewModule_or_Project.wizard" timestamp="1585470406987">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="1789" y="151" key="NewModule_or_Project.wizard/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585470406987" />
+  </component>
+</project>
