@@ -27,10 +27,10 @@ abstract class QuickCheckHeap extends Properties("Heap") with IntHeap {
    * This is I copied from other guy on Github.
    *  And it's working
    */
-  lazy val genHeap: Gen[H] = for {
-    n <- arbitrary[A]
-    h <- frequency((1, Gen.const(empty)),(9, genHeap))
-  } yield insert(n, h)
+//  lazy val genHeap: Gen[H] = for {
+//    n <- arbitrary[A]
+//    h <- frequency((1, Gen.const(empty)),(9, genHeap))
+//  } yield insert(n, h)
 
 
   /**
@@ -38,12 +38,12 @@ abstract class QuickCheckHeap extends Properties("Heap") with IntHeap {
    * This is what I wrote, seems plausible to me
    * but doesn't work
    */
-//    lazy val genHeap: Gen[H] = oneOf(const(empty),
-//    for {
-//      n <- arbitrary[A]
-//      h <- oneOf(const(empty), genHeap)
-//    } yield insert(n, h)
-//  )
+    lazy val genHeap: Gen[H] = oneOf(const(empty),
+    for {
+      n <- arbitrary[A]
+      h <- genHeap
+    } yield insert(n, h)
+  )
 
   implicit lazy val arbHeap: Arbitrary[H] = Arbitrary(genHeap)
 

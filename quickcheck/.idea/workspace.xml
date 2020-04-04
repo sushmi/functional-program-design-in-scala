@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f119736-7f19-414e-a9b7-4853486c731d" name="Default Changelist" comment="" />
+    <list default="true" id="8f119736-7f19-414e-a9b7-4853486c731d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/QuickCheck.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/quickcheck/QuickCheckHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/quickcheck/QuickCheckHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-quickcheck.QuickCheckBinomialHeap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-quickcheck.QuickCheckBinomialHeap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-quickcheck.QuickCheckSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-quickcheck.QuickCheckSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/quickcheck.QuickCheckBinomialHeap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/quickcheck.QuickCheckBinomialHeap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/quickcheck.QuickCheckSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/quickcheck.QuickCheckSuite.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +27,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZnMSr5FKBToncXaSWIrXNfvEWG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
